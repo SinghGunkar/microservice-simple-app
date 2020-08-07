@@ -7,8 +7,10 @@ Screenshots:
 
 ![](screenshots/Pic1.png)
 ![](screenshots/Pic2.png)
-![](screenshots/Pic3.png)
 
+Software architecture:
+
+![](screenshots/Pic3.png)
 
 
 
