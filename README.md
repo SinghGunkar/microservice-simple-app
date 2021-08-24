@@ -1,6 +1,6 @@
 # Simple Microservices App
 
-* A very simple microservice app I built to experiment with microservice architecture
+* A very simple react app I built to experiment with microservice architecture
 
 Built with:
 * Javascript
