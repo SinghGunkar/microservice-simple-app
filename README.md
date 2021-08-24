@@ -1,14 +1,17 @@
 # Simple Microservices App
 
-Made with:
-Javascript | Node | React
+* A very simple microservice app I built to experiment with microservice architecture
 
-Screenshots:
+Built with:
+* Javascript
+* Node
+* React
 
-![](screenshots/Pic1.png)
+## Screenshot
+<!-- ![](screenshots/Pic1.png) -->
 ![](screenshots/Pic2.png)
 
-Software architecture:
+## Software architecture
 
 ![](screenshots/Pic3.png)
 
